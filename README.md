@@ -9,3 +9,4 @@
 
 -Linkler verildi.
 
+Ekran Foto.png
